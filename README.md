@@ -6,3 +6,4 @@ Este repositório contém os algoritmos desenvovidos para a disciplina.
 ## Aulas
 
 1. Análise de algoritmos
+2. Algoritmos gulosos e programação dinâmica
