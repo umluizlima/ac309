@@ -8,3 +8,4 @@ Este repositório contém os algoritmos desenvovidos para a disciplina.
 1. Análise de algoritmos
 2. Algoritmos gulosos e programação dinâmica
 3. Estruturas de dados avançadas: Árvore de Fenwick
+4. Algoritmos da teoria dos números
